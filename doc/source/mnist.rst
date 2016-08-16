@@ -67,7 +67,7 @@ large datasets that cannot fit into memory (e.g.
 `Sports-1M <http://cs.stanford.edu/people/karpathy/deepvideo/>`__), the
 data has to be efficiently loaded and fed to the optimizer in batches.
 This requires more advanced iterators described in `Loading
-data <loading_data.md>`__.
+data <loading_data>`__.
 
 Model specification
 -------------------
